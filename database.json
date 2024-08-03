@@ -1,40 +1,17 @@
 {
+  "localidades": [],
   "usuarios": [
     {
-      "id": "17eb",
-      "nome": "3333",
+      "id": "b3e5",
+      "nome": "Douglas",
       "uf": "CE",
-      "observacao": "3434344rff"
+      "observacao": "bal blalelrl elmrel3rl3mrl3rel3r"
     },
     {
-      "id": "c5ed",
-      "nome": "douglas",
-      "uf": "CE",
-      "observacao": "3232323"
-    },
-    {
-      "id": "9d33",
-      "nome": "douglas",
-      "uf": "CE",
-      "observacao": "eeeeee"
-    },
-    {
-      "id": "cd46",
-      "nome": "douglas",
-      "uf": "CE",
-      "observacao": "123"
-    },
-    {
-      "id": "fd88",
-      "nome": "3333",
-      "uf": "CE",
-      "observacao": "33333rr"
-    },
-    {
-      "id": "ea38",
-      "nome": "rerer",
-      "uf": "CE",
-      "observacao": "er34"
+      "id": "d8ee",
+      "nome": "joao",
+      "uf": "SC",
+      "observacao": "rkkrkrnknrkrn"
     }
   ]
 }
