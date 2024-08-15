@@ -24,9 +24,8 @@ function List() {
     return (
         <div>
 
-            <button onClick={() => navigate('/')}>Cadastrar</button>
-
-            <Link to="/"> <button>Cadastrar</button></Link>
+           
+            <Link to="/form"> <button>Cadastrar</button></Link>
             <table border="1">
                 <thead>
                     <tr>
@@ -44,7 +43,7 @@ function List() {
                                 <td>{usuario.nome}</td>
                                 <td>{usuario.uf}</td>
                                 <td>
-                                    <button>Editar</button>
+                                    <Link to={`/form/${usuario.id}`}><button>Editar</button></Link>
                                 </td>
                             </tr>
                         ))

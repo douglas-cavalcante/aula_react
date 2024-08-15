@@ -12,10 +12,12 @@ function RoutesApp() {
         <BrowserRouter>
             <Routes>
                 <Route path='/' element={<Login />} />
-                <Route path='/' element={<TemplatePrivado />} >
+
+
                     <Route path='/form' element={<Form />} />
+                    <Route path='/form/:id' element={<Form />} />
                     <Route path='/listagem' element={<List />} />
-                </Route>
+
 
             </Routes>
         </BrowserRouter>
